@@ -1,0 +1,10 @@
+startup_message off
+vbell off
+defscrollback 10000
+hardstatus alwayslastline
+
+screen -t screen1
+screen -t screen2
+screen -t screen3
+
+mousetrack on
